@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://drainr.github.io/website-2/source-1.html</loc>
+    <lastmod>2025-01-15T07:16:18.642Z</lastmod>
+  </url>
+  <url>
     <loc>https://drainr.github.io/website-2/about.html</loc>
     <lastmod>2025-01-15T06:55:24.121Z</lastmod>
   </url>
   <url>
     <loc>https://drainr.github.io/website-2/index.html</loc>
     <lastmod>2025-01-15T06:49:37.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drainr.github.io/website-2/source-2.html</loc>
+    <lastmod>2025-01-15T07:16:31.577Z</lastmod>
   </url>
 </urlset>
