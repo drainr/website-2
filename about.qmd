@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+My name is **Angelo Morelli**, and I currently go to *NCF*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
